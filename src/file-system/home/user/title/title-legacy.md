@@ -7,9 +7,9 @@
 
 
 #  Hi there,
-#  *I'm Edward*
-#  -Creative Developer
+#  *I'm Tushar*
+#  -Web Developer
 ##     — Computer Science graduate of
-##        the University of Melbourne
+##        Bhabha University of India
 ##
 ###   *Scroll* or type "help" to get started

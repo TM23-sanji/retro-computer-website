@@ -3,10 +3,10 @@
 
 ##   Hi there, 
 
-#  *I'm Ed H*
+#  *I'm Tushar*
 
 ##   • Software Engineer
-##   • Digital Designer
+##   • Web dev/ AI-ML
 
 
 

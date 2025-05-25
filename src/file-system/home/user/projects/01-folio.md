@@ -2,9 +2,9 @@
 
 
 
-## *Folio (This Website)*
-## 2022
+## *Realtime Chat + Gemini AI*
+## 2025
 
-### • TypeScript, WebGL,
-### • Shader Language, Web Dev
-This was a project I built for fun over one of my uni breaks, built in TypeScript and THREE.js, it contains a number of nifty features such as: a 3D retro computer that you can interact with, a very simple UNIX shell implementation, a files system implementation, markdown interpreter and renderer, and a text layout engine.
+### • TypeScript, WebContainers, Web Sockets
+### • Gemini AI, MongoDB
+This project started as an introduction to TypeScript, establishing a type-safe and maintainable codebase. It was enhanced with web container integration to display AI-generated responses, featuring a toggle between code and chat modes. Real-time chat updates were enabled using WebSockets (Socket.io), and secure, industry-standard authentication protocols were implemented for robust user management.

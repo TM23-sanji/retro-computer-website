@@ -2,11 +2,11 @@
 
 
 
-## *Page Buddy*
-## 2023-24
+## *Wall Tribe*
+## 2025
 
-### • React, TypeScript, Gleam (Erlang),
-### • Sql, AI, Web Dev
-Page Buddy is a word processor, with everything you would expect from WYSIWYG editor along with a novel drag and drop user interface and a powerful style/theme engine. Additionally it provides: rich accessibility tools, including, an embedded neural network (Wasm / WebGPU) for auto complete, developed to help people with dyslexia (like me) with their writing; and the ability for users to publish their documents to the web.
+### • Next.js, TypeScript, Clerk, Prisma + Neon, Shadcn
+### • ImageKit, Web Dev
+A modern, full-stack image sharing platform built with Next.js, Prisma, Clerk authentication, and ImageKit for image hosting. Share, comment, like, and favorite images with your friends! Features 🔒 Authentication: Secure login/signup with Clerk 🖼️ Image Upload: Drag & drop or select images to upload (ImageKit integration) 👥 Friends System: Send, accept, and manage friend requests ❤️ Likes & Favorites: Like, dislike, and favorite images 💬 Comments: Comment on images and join the conversation 🗑️ Image Deletion: Remove your own uploads (with cleanup) 🌙 Responsive UI: Beautiful, mobile-friendly design with Tailwind CSS
 
-Page Buddy is about 35K lines of code, it even has some users (~100 WAUs)!
+Walltribe is about a app that lets you share wallpapers with your friends.

@@ -4,8 +4,8 @@
 
 # Hi there
 
-My name is Ed Hinrichsen, I’m an award-winning web dev / digital designer and full stack software engineer. I have a passion for all things technology and design, from software engineering & machine learning to UI/UX & 3D graphics.
+Hi, I'm Tushar Mishra — an aspiring web developer, AI/ML enthusiast, and full-stack software engineer with a passion for technology and design. I love building intuitive digital experiences, whether it's through software engineering, machine learning, UI/UX, or 3D graphics.
 
-In addition to my love of technology and design, I am also interested in education, history, economics and politics.
+In addition to tech, I'm also drawn to animation and illustration. I enjoy combining creativity with code to bring ideas to life.
 
 Type "cd ~/projects" then "ls" to see details of some of the projects I have developed over my fifteen plus years of coding experience.

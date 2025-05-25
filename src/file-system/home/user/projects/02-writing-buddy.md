@@ -2,12 +2,13 @@
 
 
 
-## *Writing Buddy*
-## 2021
+## *Uber Clone*
+## 2024-25
 
-### • React, TypeScript, UI/UX, Branding,
-### • AI, Deep Learning, Web Dev
-!(/images/writing-buddy.png?aspect=1.4457)
+### • MERN, Web Sockets, Open street map API
+### • Role based Auth, Realtime Location tracking
 An early version of Page Buddy.
 
-I have dyslexia and as such, have always found writing and particularly spelling difficult and tedious. While there are a number of tools on the market designed to aid people with learning difficulties, based on my experience, all fall short in one way or another. To fix this I developed Writing Buddy, a “what you see is what you get” text editor designed to help people write better, faster and with more confidence.
+My introduction to MERN stack
+
+This project was my introduction towards MERN stack, this application features real-time location tracking using WebSockets and OpenStreetMap API. The project also includes role-based authentication for secure access and dynamic prize calculation based on vehicle type, showcasing expertise in full-stack development, real-time communication, and API integration.
